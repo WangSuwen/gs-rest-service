@@ -1,0 +1,93 @@
+[
+    {
+        "name": "",
+        "chart": "https://bsrm.oss-cn-beijing.aliyuncs.com/pc-images/20240528/screenshot.png",
+        "photo": "https://bsrm.oss-cn-beijing.aliyuncs.com/pc-images/20240528/IMG_20240430_091922534.jpg",
+        "latitude": "30.318275",
+        "longitude": "120.814399",
+        "frequencies": [
+            {
+                "key": "全频段_0",
+                "maxValue": "204.5534",
+                "averageValue": "2.1223",
+                "realTimeValue": "0.4531",
+                "frequencyRange": "700MHz-5GHz",
+                "occupancyRatio": "5.2619",
+                "maxAverageValue": "7.1583",
+                "frequencyBandName": "全频段"
+            },
+            {
+                "key": "中国移动_1",
+                "maxValue": 0,
+                "averageValue": "0.02067",
+                "realTimeValue": 0,
+                "frequencyRange": "758-788",
+                "occupancyRatio": 0,
+                "maxAverageValue": 0,
+                "frequencyBandName": "中国移动"
+            },
+            {
+                "key": "中国移动_2",
+                "maxValue": 0,
+                "averageValue": "1.60108",
+                "realTimeValue": 0,
+                "frequencyRange": "2515-2675",
+                "occupancyRatio": 0,
+                "maxAverageValue": 0,
+                "frequencyBandName": "中国移动"
+            }
+        ],
+        "inspectDate": "2024-05-28T05:40:02.740Z",
+        "measureFile": "https://bsrm.oss-cn-beijing.aliyuncs.com/pc-files/20240528/Measure.xlsx",
+        "locationDesc": "1F厂房西侧",
+        "customListFile": "https://bsrm.oss-cn-beijing.aliyuncs.com/pc-files/20240528/CustomList.xlsx",
+        "verticalPosition": 27,
+        "evaluationListFile": "https://bsrm.oss-cn-beijing.aliyuncs.com/pc-files/20240528/EvaluationList.xlsx",
+        "horizontalPosition": 28
+    },
+    {
+        "chart": "https://bsrm.oss-cn-beijing.aliyuncs.com/pc-images/20240528/screenshot.png",
+        "photo": "https://bsrm.oss-cn-beijing.aliyuncs.com/pc-images/20240528/IMG_20240430_091922534.jpg",
+        "latitude": "30.318275",
+        "longitude": "120.814399",
+        "frequencies": [
+            {
+                "key": "全频段_0",
+                "maxValue": "29.0292",
+                "averageValue": "0.8752",
+                "realTimeValue": "0.5514",
+                "frequencyRange": "700MHz-5GHz",
+                "occupancyRatio": "2.1441",
+                "maxAverageValue": "3.5099",
+                "frequencyBandName": "全频段"
+            },
+            {
+                "key": "中国移动_1",
+                "maxValue": 0,
+                "averageValue": "0.26085",
+                "realTimeValue": 0,
+                "frequencyRange": "758-788",
+                "occupancyRatio": 0,
+                "maxAverageValue": 0,
+                "frequencyBandName": "中国移动"
+            },
+            {
+                "key": "中国移动_2",
+                "maxValue": 0,
+                "averageValue": "0.26085",
+                "realTimeValue": 0,
+                "frequencyRange": "2515-2675",
+                "occupancyRatio": 0,
+                "maxAverageValue": 0,
+                "frequencyBandName": "中国移动"
+            }
+        ],
+        "inspectDate": "2024-05-28T05:42:13.616Z",
+        "measureFile": "https://bsrm.oss-cn-beijing.aliyuncs.com/pc-files/20240528/Measure.xlsx",
+        "locationDesc": "1F厂房西侧",
+        "customListFile": "https://bsrm.oss-cn-beijing.aliyuncs.com/pc-files/20240528/CustomList.xlsx",
+        "verticalPosition": 27,
+        "evaluationListFile": "https://bsrm.oss-cn-beijing.aliyuncs.com/pc-files/20240528/EvaluationList.xlsx",
+        "horizontalPosition": 57
+    }
+]
