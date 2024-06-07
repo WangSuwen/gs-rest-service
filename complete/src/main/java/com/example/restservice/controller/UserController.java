@@ -23,10 +23,8 @@ public class UserController {
     private UserRepository userRepository;
 
     @PostMapping("/add")
-    public @ResponseBody String addUser(
-        @RequestParam String name,
-        @RequestParam String email
-    ) {
+    @ResponseBody
+    public String addUser(@RequestParam String name, @RequestParam String email) {
         User user = new User();
         user.setName(name);
         user.setEmail(email);
@@ -35,9 +33,8 @@ public class UserController {
     }
 
     @GetMapping("/list")
-    public @ResponseBody Iterable<User> getUserList() {
+    @ResponseBody
+    public Iterable<User> getUserList() {
         return userRepository.findAll();
     }
-    
-    
 }
